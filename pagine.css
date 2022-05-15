@@ -1,0 +1,23 @@
+html,
+body
+{
+height: 100%;
+}
+
+body {
+  font-family: "Folk OT";
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+font-size: 15px;
+position: relative; top: 50%;
+}
+
+
+.back{
+  padding-top: 169%;
+  padding-left: 5%
+}

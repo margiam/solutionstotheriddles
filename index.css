@@ -1,0 +1,34 @@
+html,
+body
+{
+height: 100%;
+}
+
+body {
+font-family: "Folk OT";
+font-weight: lighter;
+font-size: 25px
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+.sfondo{
+  position:relative;
+height: 100%;
+background:#fff url(sfondo.jpeg) no-repeat center center;
+background-size:cover;
+}
+
+
+.solutions{
+  text-align: center;
+  line-height: 200px
+}
+
+.header {
+  text-align: center;
+  padding-top: 20%
+}

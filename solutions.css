@@ -1,0 +1,44 @@
+html,
+body
+{
+height: 100%;
+}
+
+body {
+font-family: "Folk OT";
+font-weight: lighter;
+}
+
+h1 {
+  font-size: 25px
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px
+}
+
+
+
+.header {
+  text-align: center;
+  padding-top: 20%
+}
+
+.pagine{
+  text-align: center;
+  line-height: 200px
+}
+
+.p8-17{ float: left;
+  width: 70px;
+  padding-left: 6%;
+  padding-top: 18%;
+}
+
+.spazio{
+  padding-bottom: 30px
+}
